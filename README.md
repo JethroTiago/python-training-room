@@ -1,4 +1,4 @@
-﻿# Curso de Python
+﻿# Treino de Python
 
 ### Deploy
 
