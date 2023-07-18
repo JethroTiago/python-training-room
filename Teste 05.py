@@ -6,7 +6,7 @@ soma = n1 + n2
 sub = n1 - n2
 multi = n1 * n2
 divi = n1 / n2
-print('A soma dos dois números digitados é {}'.format(soma))
-print('A subtração dos valores é {}'.format(sub))
-print('A multiplicação dos números é {}'.format(multi))
-print('A divisão dos números digitados é {}'.format(divi))
+print('A soma dos dois números digitados é {}'.format(soma), end=' e ')
+print('a subtração dos valores é {}'.format(sub))
+print('A multiplicação dos números é {}'.format(multi), end=' e ')
+print('a divisão dos números digitados é {}'.format(divi))
