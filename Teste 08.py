@@ -1,4 +1,4 @@
-print('Distâncias')
+print('Conversor de Unidades Internacionais de Medidas')
 print('')
 m = float(input('Qual é a distância em metros? '))
 mm = m * 1000
