@@ -10,3 +10,8 @@ print('A soma dos dois números digitados é {}'.format(soma), end=' e ')
 print('a subtração dos valores é {}'.format(sub))
 print('A multiplicação dos números é {}'.format(multi), end=' e ')
 print('a divisão dos números digitados é {}'.format(divi))
+n3 = int(input("Digite mais um número "))
+ant = n3 - 1
+pro = n3 + 1
+print('O número que antecede o valor digitado é {}'.format(ant))
+print('O número que sucede o valor digitado é {}'.format(pro))
