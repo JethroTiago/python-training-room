@@ -15,3 +15,5 @@ ant = n3 - 1
 pro = n3 + 1
 print('O número que antecede o valor digitado é {}'.format(ant))
 print('O número que sucede o valor digitado é {}'.format(pro))
+#Testando com menos váriaveis:
+print('O número digitado foi {} e o número que o antecede é {} e o que sucede é {}'.format(n3, (n3-1), (n3+1)))
