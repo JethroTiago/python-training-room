@@ -1,0 +1,5 @@
+print('Calcular aumento de salário')
+('')
+salario = float(input('Qual o valor atual do salário do funcionário? R$ '))
+ajuste = salario + (salario * 15 / 100)
+print('Com o novo aumento de 15%, o salário do funcionário passará a ser R${}'.format(ajuste))
