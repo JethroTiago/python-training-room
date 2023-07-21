@@ -1,5 +1,5 @@
 '''import math
-print ('Valor')
+print ('Descobrindo a porção inteira e importando math')
 print('')
 #1ª forma de fazer é com import math
 valor = float(input('Digite um valor: '))
