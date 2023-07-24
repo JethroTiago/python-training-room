@@ -1,0 +1,8 @@
+print('Testes com nomes')
+print('')
+nome = str(input('Digite seu nome completo: ')).strip()
+print('Analisando seu nome...')
+print('Todas as letras maiusculas: {}'.format(nome.upper()))
+print('Todas as letras minusculas: {}'.format(nome.lower()))
+print('Quantidade de letras: {}'.format(len(nome) - nome.count(' ')))
+print('Seu primeiro tem {} letras.'.format(nome.find(' ')))
