@@ -1,9 +1,12 @@
 print('Analisando um número')
 print('')
 num = int(input('Digite um número (de 0 a 9999): '))
-n = str(num)
+uni = num // 1 % 10
+dez = num // 10 % 10
+cen = num // 100 % 10
+mil = num // 1000 % 10
 print('Analisando o número {}'.format(num))
-print('Unidade: {}'.format(n[3]))
-print('Dezena: {}'.format(n[2]))
-print('Centena: {}'.format(n[1]))
-print('Milhar: {}'.format(n[0]))
+print('Unidade: {}'.format(uni))
+print('Dezena: {}'.format(dez))
+print('Centena: {}'.format(cen))
+print('Milhar: {}'.format(mil))
