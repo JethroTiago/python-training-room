@@ -1,6 +1,5 @@
 from time import sleep
 print('Encontrando o maior e o menor valor')
-print('')
 print('-=-' * 25)
 valor1 = int(input('Digite o primeiro número: '))
 valor2 = int(input('Digite o segundo número: '))
