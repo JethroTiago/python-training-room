@@ -8,10 +8,12 @@ print('''Escolha uma das opções abaixo para conversão:
 opcao = int(input('Digite o \033[31mnúmero\033[m referente a opção escolhida: '))
 print('A opção selecionada foi {}'.format(opcao))
 if opcao == 1:
-    print('{} convertido para BINÁRIO é igual a {}.'.format(num, bin(num)))
+    print('{} convertido para BINÁRIO é igual a {}.'.format(num, bin(num)[2:]))
 elif opcao == 2:
-    print('{} convertido para OCTAL é igual a {}.'.format(num, oct(num)))
+    print('{} convertido para OCTAL é igual a {}.'.format(num, oct(num)[2:]))
 elif opcao == 3:
-    print('{} convertido para HEXADECIMAL é igual a {}.'.format(num, hex(num)))
+    print('{} convertido para HEXADECIMAL é igual a {}.'.format(num, hex(num)[2:]))
+else:
+    print('Opção inválida. As opções válidas são: \033[31m1\033[m, \033[31m2\033[m ou \033[31m3\033[m. Tente novamente.')
 print('\033[1;34m-=-\033[m' * 25)
 print('FIM')
