@@ -2,7 +2,7 @@
 
 ### Deploy
 
--- soon --
+--- soon ---
 
 ### Visualização do Projeto
 
