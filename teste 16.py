@@ -7,7 +7,7 @@ print('O valor digitado foi {} e a sua porção inteira é {}'.format(valor, mat
 
 #2ª forma de fazer é com from math import trunc
 from math import trunc
-num = float(input('Digite mais um número: '))
+num = float(input('Digite um valor: '))
 print('O valor digitado foi {} e a sua porção inteira é {}'.format(num, trunc(num)))
 
 '''#3ª forma de fazer é não importando nada e utilizando o int
