@@ -47,4 +47,4 @@ elif computador == 2: #Se o computador escolheu TESOURA
     else:
         print('\033[1:31mJOGADA INVÁLIDA!\033[m')
 print('\033[1:37m=-=\033[m' * 10)
-print('FIM')
+print('FIM \U0001FAA8 \U0001F4C4 \U00002702 ')
