@@ -1,5 +1,5 @@
-print('\033[1;34m-=-\033[m' * 15)
-print('\033[1;35mNÚMEROS PRIMOS\033[m')
+print('\033[1;33m-=-\033[m' * 15)
+print('\033[1;34mNÚMEROS PRIMOS\033[m')
 print('\033[1;34m-=-\033[m' * 15)
 num = int(input('Digite um número para ser analisado: '))
 total = 0
