@@ -1,4 +1,4 @@
-print('\033[1;36mTABUADA\033[m')
+print('\033[1;36mSoma dos números pares inseridos\033[m')
 print('\033[1;35m-=-\033[m' * 24)
 soma = 0
 cont = 0
