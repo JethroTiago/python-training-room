@@ -7,4 +7,6 @@ for c in range(1, 7):
     if num % 2 == 0:
         soma += num
         cont += 1
-print('Você digitou {} números PARES e a soma deles é: {}.'.format(cont, soma))
+print('Você digitou {} números \033[1;32mPARES\033[m e a soma deles é: \033[1;32m{}\033[m.'.format(cont, soma))
+print('\033[1;35m-=-\033[m' * 24)
+print('FIM')
