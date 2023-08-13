@@ -6,7 +6,7 @@ razao = int(input('Digite a \033[1;36mRAZÃO\033[m: '))
 termo = primeiro
 contador = 1
 while contador <= 10:
-    print('{} \033[1;32m->\033[m '.format(termo), end='')
+    print('{} \033[1;31m->\033[m '.format(termo), end='')
     termo += razao
     contador += 1
 print('\033[1;31mFIM\033[m')
