@@ -5,6 +5,7 @@
 ## Como Funciona
 
 Um repositório especial destinado a guardar meus códigos de testes e treinos com a linguagem Python.
+Conhecimentos adquiridos no Curso em Vídeo.
 
 ## Linguagens e estruturas de desenvolvimento:
 
