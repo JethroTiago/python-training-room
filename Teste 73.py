@@ -5,3 +5,16 @@ times = ('Botafogo', 'Palmeiras', 'Flamengo', 'Fluminense', 'Grêmio',
          'Atletico-PR', 'Bragantino', 'Fortaleza', 'Cuiabá', 'São Paulo',
          'Atlético-MG', 'Cruzeiro', 'Corinthians', 'Internacional', 'Goiás',
          'Bahia', 'Santos', 'Vasco da Gama', 'Coritiba', 'America-MG')
+print('\033[1;32mLista de times do Brasileirão - Série A:\033[m')
+print(f'{times}')
+print('\033[1;35m-=-\033[m' * 15)
+print(f'\033[1;32mOs cinco primeiros colocados são:\033[m')
+print(f'{times[0:5]}')
+print('\033[1;35m-=-\033[m' * 15)
+print(f'\033[1;32mEstão na zona de rebaixamento:\033[m')
+print(f'{times[16:20]}')
+print('\033[1;35m-=-\033[m' * 15)
+print(f'\033[1;32mTimes em ordem alfabética:\033[m')
+print(f'{sorted(times)}')
+print('\033[1;35m-=-\033[m' * 15)
+print(f'\033[1;32mO Bahia está na {times.index("Bahia")+1}ª colocação.\033[m')
