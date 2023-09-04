@@ -4,7 +4,7 @@
 
 ## Como Funciona
 
-Um repositório exclusivo criado para armazenar meus experimentos e práticas com a linguagem <strong>PYTHON</strong>, baseados nos conhecimentos adquiridos no Curso em Vídeo do professor <strong>Gustavo Guanabara<strong>.
+Um repositório exclusivo criado para armazenar meus experimentos e práticas com a linguagem <strong>PYTHON</strong>, baseados nos conhecimentos adquiridos no [Curso em Vídeo](https://www.cursoemvideo.com/) do professor <strong>Gustavo Guanabara<strong>.
 
 ## Linguagens e estruturas de desenvolvimento:
 
