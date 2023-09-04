@@ -12,7 +12,23 @@ Um repositório exclusivo criado para armazenar meus experimentos e práticas co
 
 ## Aprendizados:
 
-* Aprendizagem da linguagem <strong>PYTHON</strong>
+* Sintaxe básica;
+* Variáveis e tipos de dados;
+* Operadores aritméticos e lógicos;
+* Estruturas de controle de fluxo (condicionais e loops);
+* Listas;
+* Tuplas;
+* Dicionários;
+* Conjuntos;
+* Definição e uso de funções;
+* Parâmetros e argumentos;
+* Retorno de valores;
+* Escopo de variáveis;
+* Módulos e Bibliotecas;
+* Como lidar com erros e exceções;
+* Formatação de strings;
+* Expressões regulares;
+* Gerenciamento de Erros e Exceções
 
 ## Agradecimentos
 
