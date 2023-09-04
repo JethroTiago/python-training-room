@@ -4,8 +4,7 @@
 
 ## Como Funciona
 
-Um repositório especial destinado a guardar meus códigos de testes e treinos com a linguagem Python.
-Conhecimentos adquiridos no Curso em Vídeo.
+Um repositório exclusivo criado para armazenar meus experimentos e práticas com a linguagem <strong>PYTHON</strong>, baseados nos conhecimentos adquiridos no Curso em Vídeo.
 
 ## Linguagens e estruturas de desenvolvimento:
 
@@ -13,7 +12,7 @@ Conhecimentos adquiridos no Curso em Vídeo.
 
 ## Aprendizados:
 
-* Aprendizagem da linguagem Python
+* Aprendizagem da linguagem <strong>PYTHON</strong>
 
 ## Agradecimentos
 
